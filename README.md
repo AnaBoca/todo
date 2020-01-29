@@ -1,6 +1,6 @@
 # TODO App
 
-An interactive flashcard app that uses ReactJS.
+A to-do app with a fluid interface using JavaScript that allows users to rapidly update dynamic content.
 
 
 ## 🗐 Home Page
